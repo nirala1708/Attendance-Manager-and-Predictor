@@ -1,0 +1,13 @@
+officialDP=new DatePicker();
+        officialIF =officialDP.getPicker() ;
+		oButton=officialDP.getButton();
+		oNextB=officialDP.getNextButton();
+		oPreviousB=officialDP.getPreviousButton();
+		oMonthYearL=officialDP.getMonthYearL();
+
+		intendedDP=new DatePicker();
+		intendedIF =intendedDP.getPicker() ;
+        iButton=intendedDP.getButton();
+		iNextB=intendedDP.getNextButton();
+		iPreviousB=intendedDP.getPreviousButton();
+		iMonthYearL=intendedDP.getMonthYearL();

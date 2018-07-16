@@ -1,0 +1,7 @@
+		DatePicker homeDP=new DatePicker();
+        iF =homeDP.getPicker() ;
+		hButton=homeDP.getButton();
+		hNextB=homeDP.getNextButton();
+		hPreviousB=homeDP.getPreviousButton();
+		hMonthYearL=homeDP.getMonthYearL();
+		//statusP = getStatusPanel();

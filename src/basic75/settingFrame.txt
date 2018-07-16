@@ -1,0 +1,4 @@
+SubPriority sp= new SubPriority();
+jScrollPane1 =sp.getPane();
+targetC=sp.getTarget();
+priorityC=sp.getPriority();

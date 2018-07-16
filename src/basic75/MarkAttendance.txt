@@ -1,0 +1,6 @@
+		DatePicker AttendDP=new DatePicker();
+        		attendIF =AttendDP.getPicker() ;
+		aButton=AttendDP.getButton();
+		aNextB=AttendDP.getNextButton();
+		aPreviousB=AttendDP.getPreviousButton();
+		aMonthYearL=AttendDP.getMonthYearL();
